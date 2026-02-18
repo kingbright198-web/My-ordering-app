@@ -1,4 +1,5 @@
 # My-ordering-app
+"start": "node server.js"
 const express = require('express');
 const fs = require('fs');
 const app = express();
